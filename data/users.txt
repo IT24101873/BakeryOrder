@@ -1,1 +1,2 @@
 Jesmeen,123,0502660324,malabe,admin
+Amal,123,05030204,amal@gmail.com
